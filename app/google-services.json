@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1717404075",
+    "firebase_url": "https://fir-1-170fb.firebaseio.com",
+    "project_id": "fir-1-170fb",
+    "storage_bucket": "fir-1-170fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1717404075:android:620746214c640f29",
+        "android_client_info": {
+          "package_name": "com.kevinintriagomora.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1717404075-hninrt8lb50llt6vn0o8g072kfmslaqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJBj1eC9mwvEoZZVBmdZFaFu-eQ5PxVtA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

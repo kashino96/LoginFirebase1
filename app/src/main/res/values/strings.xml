@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase1</string>
+    <string name="email">Ingrese un email</string>
+    <string name="contraseña">Ingrese una contraseña</string>
+    <string name="registrarU">REGISTRAR USUARIO</string>
+    <string name="loginU">LOGUEARSE</string>
+</resources>
